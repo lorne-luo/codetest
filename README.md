@@ -22,7 +22,7 @@ There's a number of constraints that your solution must obey:
 - Once a drone is assigned a package, it will fly in a straight line to its current destination (if it already has a package), then to the depo, then to the new destination
 - Packages must only be assigned to a drone that can complete the delivery by the package's delivery deadline
 - Packages should be assigned to the drone that can deliver it soonest
-- A drone should only appear in the assignment list at most once. For example, this is allowed:
+- A drone should only appear in the assignment list at most once; this is a dispatching problem, not a routing problem. For example, this is allowed:
 ```javascript
 {
   assignments: [{droneId: 1593, packageId: 1029438}, {droneId: 1251, packageId: 1029439}]
