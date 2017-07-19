@@ -111,7 +111,7 @@ This returns a randomized list of packages. You will need to assign the packages
 ```
 
 ## Analysis
-After you've implemented your solution, try answering the following questions. We're not really lookg for a particular answer; we're more interested in how well you understand your choices, and how well you can justify them.
+After you've implemented your solution, try answering the following questions. We're not really looking for a particular answer; we're more interested in how well you understand your choices, and how well you can justify them.
 
 - How did you implement your solution?
 - Why did you implement it this way?
