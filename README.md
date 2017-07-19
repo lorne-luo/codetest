@@ -18,16 +18,20 @@ Your solution should take two inputs: a list of drones, and a list of packages; 
 There's a number of constraints that your solution must obey:
 
 - The depo is located at 303 Collins Street, Melbourne, VIC 3000
-- Drones travel at a fixed speed of 20km/h
-- Drones can only carry one item at a time
 - Drones might already be carrying a package. The time to deliver this package should be taken into account when comparing drones.
-- Once a package is assigned to a drone, it will fly in a straight line to its current destination (if it already has a package), then to the depo, then to the new destination
-- Drones have unlimited range
-- Packages are all the same weight and volume
-- Packages have a delivery deadline
-- Packages must only be assigned to a drone that can complete the delivery by the delivery deadline
+- Once a drone is assigned a package, it will fly in a straight line to its current destination (if it already has a package), then to the depo, then to the new destination
+- Packages must only be assigned to a drone that can complete the delivery by the package's delivery deadline
 - Packages should be assigned to the drone that can deliver it soonest
-- Drones should not have more than one assigned package
+- Drones should only be assigned one package at a time, not including the package it may already be carrying. For example, if drone A is currently carrying package A, you may assign it package B, but not package B AND package C. If drone B is not carrying any packages, you may assign it package B, but not package B AND package C.
+
+### Assumptions
+You can make the following simplifying assumptions:
+
+- Drones have unlimited range
+- Drones travel at a fixed speed of 20km/h
+- Packages are all the same weight and volume
+- Packages can be delivered early
+- Drones can only carry one item at a time
 
 You should integrate with [this API](https://codetest.kube.getswift.co/drones) which generates randomized data.
 
