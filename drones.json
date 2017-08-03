@@ -1,0 +1,611 @@
+[
+  {
+    "droneId": 48169,
+    "location": {
+      "latitude": -37.774405927904205,
+      "longitude": 144.85958471055054
+    },
+    "packages": [
+      {
+        "destination": {
+          "latitude": -37.76555279531614,
+          "longitude": 144.85393042130363
+        },
+        "packageId": 562,
+        "deadline": 1501763290
+      }
+    ]
+  },
+  {
+    "droneId": 52788,
+    "location": {
+      "latitude": -37.76930692801486,
+      "longitude": 144.8616802064637
+    },
+    "packages": [
+      {
+        "destination": {
+          "latitude": -37.765214539631046,
+          "longitude": 144.85889801061427
+        },
+        "packageId": 685,
+        "deadline": 1501764386
+      }
+    ]
+  },
+  {
+    "droneId": 58997,
+    "location": {
+      "latitude": -37.77406531643124,
+      "longitude": 144.85904699091623
+    },
+    "packages": [
+      {
+        "destination": {
+          "latitude": -37.78215066018352,
+          "longitude": 144.85481079779487
+        },
+        "packageId": 811,
+        "deadline": 1501764543
+      }
+    ]
+  },
+  {
+    "droneId": 76790,
+    "location": {
+      "latitude": -37.76627832366351,
+      "longitude": 144.85035856199792
+    },
+    "packages": [
+      {
+        "destination": {
+          "latitude": -37.77407507158193,
+          "longitude": 144.86327785710776
+        },
+        "packageId": 1250,
+        "deadline": 1501763643
+      }
+    ]
+  },
+  {
+    "droneId": 93580,
+    "location": {
+      "latitude": -37.77946386680087,
+      "longitude": 144.85870650112284
+    },
+    "packages": [
+      {
+        "destination": {
+          "latitude": -37.78022981791981,
+          "longitude": 144.85384652785342
+        },
+        "packageId": 2366,
+        "deadline": 1501762690
+      }
+    ]
+  },
+  {
+    "droneId": 135047,
+    "location": {
+      "latitude": -37.77509452709785,
+      "longitude": 144.86088980421488
+    },
+    "packages": [
+      {
+        "destination": {
+          "latitude": -37.76749735435081,
+          "longitude": 144.85064922639484
+        },
+        "packageId": 2581,
+        "deadline": 1501762590
+      }
+    ]
+  },
+  {
+    "droneId": 179807,
+    "location": {
+      "latitude": -37.77322573740456,
+      "longitude": 144.84861082873746
+    },
+    "packages": [
+      {
+        "destination": {
+          "latitude": -37.77982415205223,
+          "longitude": 144.85911667000903
+        },
+        "packageId": 2761,
+        "deadline": 1501763105
+      }
+    ]
+  },
+  {
+    "droneId": 183846,
+    "location": {
+      "latitude": -37.78177422349236,
+      "longitude": 144.8581851617216
+    },
+    "packages": [
+      {
+        "destination": {
+          "latitude": -37.77608764683183,
+          "longitude": 144.86461418409124
+        },
+        "packageId": 2824,
+        "deadline": 1501764356
+      }
+    ]
+  },
+  {
+    "droneId": 208664,
+    "location": {
+      "latitude": -37.778743688443924,
+      "longitude": 144.85133337840526
+    },
+    "packages": [
+      {
+        "destination": {
+          "latitude": -37.76741888621278,
+          "longitude": 144.8645819588327
+        },
+        "packageId": 2949,
+        "deadline": 1501763238
+      }
+    ]
+  },
+  {
+    "droneId": 250239,
+    "location": {
+      "latitude": -37.781817030127435,
+      "longitude": 144.86256385869163
+    },
+    "packages": [
+      {
+        "destination": {
+          "latitude": -37.77473863052745,
+          "longitude": 144.8566077611128
+        },
+        "packageId": 3652,
+        "deadline": 1501764487
+      }
+    ]
+  },
+  {
+    "droneId": 303972,
+    "location": {
+      "latitude": -37.77788237698259,
+      "longitude": 144.86092490710342
+    },
+    "packages": [
+      {
+        "destination": {
+          "latitude": -37.76802087372692,
+          "longitude": 144.85709423278936
+        },
+        "packageId": 3767,
+        "deadline": 1501764601
+      }
+    ]
+  },
+  {
+    "droneId": 328468,
+    "location": {
+      "latitude": -37.781513269705314,
+      "longitude": 144.85247835182483
+    },
+    "packages": [
+      {
+        "destination": {
+          "latitude": -37.767170009242285,
+          "longitude": 144.84717700888731
+        },
+        "packageId": 4015,
+        "deadline": 1501764965
+      }
+    ]
+  },
+  {
+    "droneId": 334670,
+    "location": {
+      "latitude": -37.770289112931984,
+      "longitude": 144.86356516036355
+    },
+    "packages": [
+      {
+        "destination": {
+          "latitude": -37.784977977382255,
+          "longitude": 144.86389645781944
+        },
+        "packageId": 4241,
+        "deadline": 1501764098
+      }
+    ]
+  },
+  {
+    "droneId": 363337,
+    "location": {
+      "latitude": -37.76963436287471,
+      "longitude": 144.85169999254833
+    },
+    "packages": [
+      {
+        "destination": {
+          "latitude": -37.771135094913234,
+          "longitude": 144.85098036222564
+        },
+        "packageId": 4307,
+        "deadline": 1501762410
+      }
+    ]
+  },
+  {
+    "droneId": 388537,
+    "location": {
+      "latitude": -37.78490796784683,
+      "longitude": 144.8537873240821
+    },
+    "packages": [
+      {
+        "destination": {
+          "latitude": -37.767129289761094,
+          "longitude": 144.85908124894186
+        },
+        "packageId": 4347,
+        "deadline": 1501763794
+      }
+    ]
+  },
+  {
+    "droneId": 413912,
+    "location": {
+      "latitude": -37.765534205850024,
+      "longitude": 144.85971977880732
+    },
+    "packages": [
+      {
+        "destination": {
+          "latitude": -37.77208778880029,
+          "longitude": 144.86426681095006
+        },
+        "packageId": 4394,
+        "deadline": 1501762992
+      }
+    ]
+  },
+  {
+    "droneId": 437855,
+    "location": {
+      "latitude": -37.76638929381409,
+      "longitude": 144.85242141346401
+    },
+    "packages": [
+      {
+        "destination": {
+          "latitude": -37.77418703634953,
+          "longitude": 144.85581415425006
+        },
+        "packageId": 4543,
+        "deadline": 1501763994
+      }
+    ]
+  },
+  {
+    "droneId": 438239,
+    "location": {
+      "latitude": -37.7759261748755,
+      "longitude": 144.85319708052538
+    },
+    "packages": [
+      {
+        "destination": {
+          "latitude": -37.77935343778523,
+          "longitude": 144.85474502997758
+        },
+        "packageId": 4894,
+        "deadline": 1501762131
+      }
+    ]
+  },
+  {
+    "droneId": 475374,
+    "location": {
+      "latitude": -37.78235705071815,
+      "longitude": 144.84915766634052
+    },
+    "packages": [
+      {
+        "destination": {
+          "latitude": -37.78424121590508,
+          "longitude": 144.86170331936813
+        },
+        "packageId": 5039,
+        "deadline": 1501764823
+      }
+    ]
+  },
+  {
+    "droneId": 493134,
+    "location": {
+      "latitude": -37.77602284014467,
+      "longitude": 144.86039015319213
+    },
+    "packages": [
+      {
+        "destination": {
+          "latitude": -37.78012512486822,
+          "longitude": 144.85134036847757
+        },
+        "packageId": 5263,
+        "deadline": 1501762851
+      }
+    ]
+  },
+  {
+    "droneId": 496293,
+    "location": {
+      "latitude": -37.78273901601187,
+      "longitude": 144.85068119254842
+    },
+    "packages": [
+      {
+        "destination": {
+          "latitude": -37.78399795055693,
+          "longitude": 144.8558530951298
+        },
+        "packageId": 5985,
+        "deadline": 1501764641
+      }
+    ]
+  },
+  {
+    "droneId": 505715,
+    "location": {
+      "latitude": -37.77186452145793,
+      "longitude": 144.8480620068251
+    },
+    "packages": [
+      {
+        "destination": {
+          "latitude": -37.76982897370396,
+          "longitude": 144.85268488483774
+        },
+        "packageId": 6083,
+        "deadline": 1501764464
+      }
+    ]
+  },
+  {
+    "droneId": 535228,
+    "location": {
+      "latitude": -37.784266696978534,
+      "longitude": 144.85991883275832
+    },
+    "packages": [
+      {
+        "destination": {
+          "latitude": -37.78230191404508,
+          "longitude": 144.8563039341122
+        },
+        "packageId": 6175,
+        "deadline": 1501763825
+      }
+    ]
+  },
+  {
+    "droneId": 585348,
+    "location": {
+      "latitude": -37.77759007658112,
+      "longitude": 144.8614729022489
+    },
+    "packages": [
+      {
+        "destination": {
+          "latitude": -37.771539475807074,
+          "longitude": 144.85533277737397
+        },
+        "packageId": 6296,
+        "deadline": 1501762413
+      }
+    ]
+  },
+  {
+    "droneId": 585776,
+    "location": {
+      "latitude": -37.774474528690256,
+      "longitude": 144.8630788451633
+    },
+    "packages": [
+      {
+        "destination": {
+          "latitude": -37.779085764575115,
+          "longitude": 144.86461943117632
+        },
+        "packageId": 6342,
+        "deadline": 1501764486
+      }
+    ]
+  },
+  {
+    "droneId": 595239,
+    "location": {
+      "latitude": -37.78404553470958,
+      "longitude": 144.86023333753127
+    },
+    "packages": [
+      {
+        "destination": {
+          "latitude": -37.77984900687689,
+          "longitude": 144.86134891490522
+        },
+        "packageId": 6495,
+        "deadline": 1501765010
+      }
+    ]
+  },
+  {
+    "droneId": 605581,
+    "location": {
+      "latitude": -37.776386516153636,
+      "longitude": 144.85518375615848
+    },
+    "packages": [
+      {
+        "destination": {
+          "latitude": -37.78071867548596,
+          "longitude": 144.85686417196453
+        },
+        "packageId": 6927,
+        "deadline": 1501762684
+      }
+    ]
+  },
+  {
+    "droneId": 652315,
+    "location": {
+      "latitude": -37.78132827291698,
+      "longitude": 144.8614842450711
+    },
+    "packages": [
+      {
+        "destination": {
+          "latitude": -37.77761049748766,
+          "longitude": 144.8612265972544
+        },
+        "packageId": 7459,
+        "deadline": 1501764301
+      }
+    ]
+  },
+  {
+    "droneId": 671263,
+    "location": {
+      "latitude": -37.77260121597718,
+      "longitude": 144.84758795662995
+    },
+    "packages": [
+      {
+        "destination": {
+          "latitude": -37.78341563000801,
+          "longitude": 144.8481488850534
+        },
+        "packageId": 7971,
+        "deadline": 1501763626
+      }
+    ]
+  },
+  {
+    "droneId": 682075,
+    "location": {
+      "latitude": -37.76706245108058,
+      "longitude": 144.85694153952733
+    },
+    "packages": [
+      {
+        "destination": {
+          "latitude": -37.77297348985223,
+          "longitude": 144.8514859000427
+        },
+        "packageId": 8033,
+        "deadline": 1501763594
+      }
+    ]
+  },
+  {
+    "droneId": 703117,
+    "location": {
+      "latitude": -37.77901601944488,
+      "longitude": 144.84724709317413
+    },
+    "packages": [
+      {
+        "destination": {
+          "latitude": -37.77744203034779,
+          "longitude": 144.8643730650622
+        },
+        "packageId": 8506,
+        "deadline": 1501762314
+      }
+    ]
+  },
+  {
+    "droneId": 710537,
+    "location": {
+      "latitude": -37.78357239648678,
+      "longitude": 144.849902507848
+    },
+    "packages": [
+      {
+        "destination": {
+          "latitude": -37.78483647112739,
+          "longitude": 144.8581799830143
+        },
+        "packageId": 9091,
+        "deadline": 1501762214
+      }
+    ]
+  },
+  {
+    "droneId": 741217,
+    "location": {
+      "latitude": -37.77522593097243,
+      "longitude": 144.8495294961508
+    },
+    "packages": [
+      {
+        "destination": {
+          "latitude": -37.778283824177194,
+          "longitude": 144.86118773165134
+        },
+        "packageId": 9859,
+        "deadline": 1501762640
+      }
+    ]
+  },
+  {
+    "droneId": 771363,
+    "location": {
+      "latitude": -37.77263106145581,
+      "longitude": 144.8526728206367
+    },
+    "packages": []
+  },
+  {
+    "droneId": 865222,
+    "location": {
+      "latitude": -37.77677567348294,
+      "longitude": 144.85942041748947
+    },
+    "packages": []
+  },
+  {
+    "droneId": 892251,
+    "location": {
+      "latitude": -37.766035475997015,
+      "longitude": 144.85834060926845
+    },
+    "packages": []
+  },
+  {
+    "droneId": 919189,
+    "location": {
+      "latitude": -37.76827708182468,
+      "longitude": 144.86164864444888
+    },
+    "packages": []
+  },
+  {
+    "droneId": 930509,
+    "location": {
+      "latitude": -37.77455498776852,
+      "longitude": 144.85085371234305
+    },
+    "packages": []
+  },
+  {
+    "droneId": 966391,
+    "location": {
+      "latitude": -37.778759484810806,
+      "longitude": 144.8554367080171
+    },
+    "packages": []
+  }
+]
